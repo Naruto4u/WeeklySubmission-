@@ -1,7 +1,3 @@
-# WeeklySubmission-
-here are the things that I have completed this week, there is more, but I don't feel like remembering it all.
-Skill Struck Lesson completion rate for Python VV
-![image](https://github.com/user-attachments/assets/5a9b7505-375c-4715-acbb-67fba916f571)
-
-Notes I took on the lessons VV
-https://docs.google.com/document/d/1oeB2xiChtOFJA3xAOmOOkmhQmWMUI8scBtlbusRHWY4/edit
+Here's first, ![image](https://github.com/user-attachments/assets/d67ff818-7d8e-4d21-9218-8a8e2ba1ee4b)
+Heeeere's second! https://github.com/Naruto4u/PyCommands
+That's just about it, I tried to do last week's submission, but wasn't able to get into the google document,  all I really worked on last week was the Skill struck stuff though so that's that.
