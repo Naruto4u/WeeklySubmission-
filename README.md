@@ -1,2 +1,3 @@
-Still going to be putting effort into this, but I am still just starting out, the most confusing part was how I was supposed to put in code that would then be returned to the question stuff, but I eventually got the hang of it. ![image](https://github.com/user-attachments/assets/6469432c-93cd-49d3-aa76-254417c38b7f)
-Did some other stuff, not too much though.
+This week, I have mostly focused on codewars and the assignments given..
+![image](https://github.com/user-attachments/assets/8da7e4d6-2016-4813-b5b9-f66b79112e1b)
+I am making process towards getting certified, but it will still take me quite some time because I still have trouble understanding most of what I am doing.
