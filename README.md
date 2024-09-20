@@ -1,4 +1,2 @@
-Codewars progress:
-![image](https://github.com/user-attachments/assets/59b183e3-4fd1-4071-b8db-08c44f090df0)
-Skill struck progress:
-![image](https://github.com/user-attachments/assets/3a984e65-d06b-4d56-aa57-ebdf92ff1760)
+Codewars:
+![image](https://github.com/user-attachments/assets/6960df94-50bf-4a6e-90f0-e98906d93924)
