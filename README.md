@@ -1,3 +1,6 @@
-Did some codewars this week
-![image](https://github.com/user-attachments/assets/56e9075d-97c2-46bb-bf87-d4c2dbe0015e)
-and studied for my python certificate
+Studied for my Certification in python, and worked on the Career fair.
+Carreer fair doc VVVV
+https://docs.google.com/document/d/1lGbL4YJgkEFvJOlDvuCzZMcg6ynM3-FK_ZEVLz8y_uk/edit?pli=1&tab=t.0
+
+
+
