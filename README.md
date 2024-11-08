@@ -1,6 +1,3 @@
-Studied for my Certification in python, and worked on the Career fair.
-Carreer fair doc:
-https://docs.google.com/document/d/1lGbL4YJgkEFvJOlDvuCzZMcg6ynM3-FK_ZEVLz8y_uk/edit?pli=1&tab=t.0
-
-
-
+Made progress in codewars (got 100 kata):
+![image](https://github.com/user-attachments/assets/fd2e5e22-0753-4154-b37e-ae413087d41b)
+And studied for my certification.
