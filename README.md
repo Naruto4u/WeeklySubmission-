@@ -1,3 +1,4 @@
-Made progress in codewars (got 100 kata):
-![image](https://github.com/user-attachments/assets/fd2e5e22-0753-4154-b37e-ae413087d41b)
-And studied for my certification.
+# Nineth week logged:
+Completed a few Html/CSS courses, worked on website
+![image](https://github.com/user-attachments/assets/f33ec640-1632-498f-8545-8a6b575779fd)
+![image](https://github.com/user-attachments/assets/56c4002e-1dc2-41e1-a235-1ee3be8f83e4)
